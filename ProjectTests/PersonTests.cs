@@ -13,5 +13,15 @@ namespace ProjectTests
 
             Assert.True(person != null);
         }
+
+        [Fact]
+        public void SetName_ChangesTheName_WhenCalled()
+        {
+            var person = new Person();
+
+            person.Name = "Dimitar";
+
+            Assert.True(person.Name == "Dimitar");
+        }
     }
 }
