@@ -15,13 +15,13 @@ namespace ProjectTests
         }
 
         [Fact]
-        public void SetName_ChangesTheName_WhenCalled()
+        public void Can_Set_FirstName_Of_A_Person()
         {
             var person = new Person();
 
-            person.Name = "Dimitar";
+            person.FirstName = "Dimitar";
 
-            Assert.True(person.Name == "Dimitar");
+            Assert.True(person.FirstName == "Dimitar");
         }
     }
 }
