@@ -1,0 +1,16 @@
+c:\Users\dvalkov\Desktop\CI\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.csproj.CoreCompileInputs.cache
+c:\Users\dvalkov\Desktop\CI\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.AssemblyInfoInputs.cache
+c:\Users\dvalkov\Desktop\CI\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.AssemblyInfo.cs
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.deps.json
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.runtimeconfig.json
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.runtimeconfig.dev.json
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.dll
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.pdb
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\Project.dll
+c:\Users\dvalkov\Desktop\CI\ProjectTests\bin\Debug\netcoreapp2.0\Project.pdb
+c:\Users\dvalkov\Desktop\CI\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.csproj.CopyComplete
+c:\Users\dvalkov\Desktop\CI\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.dll
+c:\Users\dvalkov\Desktop\CI\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.pdb
