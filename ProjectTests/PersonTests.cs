@@ -23,5 +23,15 @@ namespace ProjectTests
 
             Assert.True(person.FirstName == "Dimitar");
         }
+
+        [Fact]
+        public void Can_Set_LastName_Of_A_Person()
+        {
+            var person = new Person();
+
+            person.LastName = "Valkov";
+
+            Assert.True(person.LastName == "Valkov");
+        }
     }
 }
